@@ -1,7 +1,7 @@
 package main
 
 import (
-	"server"
+	"github.com/JinaJSuh/prolog/internal/server"
 )
 
 func main() {
